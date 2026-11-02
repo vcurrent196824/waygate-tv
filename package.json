@@ -1,0 +1,11 @@
+{
+  "name": "waygate-tv",
+  "version": "1.0.0",
+  "description": "A futuristic dark fantasy home screen with an idle D20 roguelite",
+  "packageType": "app",
+  "appName": "Waygate",
+  "appPath": "index.html",
+  "keys": [
+    "MediaPlayPause"
+  ]
+}

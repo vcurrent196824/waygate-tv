@@ -1,9 +1,9 @@
 {
   "name": "waygate-tv",
-  "version": "1.0.0",
-  "description": "A futuristic dark fantasy home screen with an idle D20 roguelite",
+  "version": "2.0.0",
+  "description": "An unofficial fan-made home screen and idle roguelite for Samsung TVs",
   "packageType": "app",
-  "appName": "Waygate",
+  "appName": "Crawler TV",
   "appPath": "index.html",
   "keys": [
     "MediaPlayPause"

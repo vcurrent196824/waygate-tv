@@ -1,5 +1,7 @@
-# Waygate
+# Crawler TV
 
-A futuristic dark fantasy home screen for a Samsung TV, built as a TizenBrew app module. It shows the time, date, weather and app shortcuts. After five idle minutes it plays an automatic D20 roguelite.
+A custom home screen for Samsung TVs that runs through TizenBrew, with an idle roguelite that plays while the TV sits on the home screen.
 
-All art is drawn in code. This project stores no personal data. Hero progress stays on the TV.
+This is an unofficial, non-commercial fan project inspired by the Dungeon Crawler Carl books by Matt Dinniman. It is not affiliated with or endorsed by the author or publishers. All jokes and descriptions are original, and the game stops halfway through book 7 to avoid later spoilers.
+
+It uses Open-Meteo for weather, fixed to Virginia Beach. Progress stays on the TV. It collects nothing.
